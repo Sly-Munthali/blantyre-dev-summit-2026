@@ -1,16 +1,80 @@
-# React + Vite
+# Blantyre Dev Summit 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive hybrid tech summit website built as a UI/UX portfolio project.
 
-Currently, two official plugins are available:
+Live Demo: https://YOUR_FIREBASE_LINK  
+Source Code: https://github.com/Sly-Munthali/blantyre-dev-summit-2026
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Blantyre Dev Summit 2026 is a fully interactive concept event website designed to showcase modern frontend development techniques, animation systems, and user-centered UI architecture.
 
-## Expanding the ESLint configuration
+This is a fictional summit created for portfolio demonstration purposes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Animated hero section with layered gradient background
+- Interactive ticket selection with animated counters
+- Expandable symposium sessions with nested speaker details
+- Smooth transitions and scroll-based effects
+- Scroll-to-top utility button
+- Responsive hybrid event layout
+- Local image asset management for performance and reliability
+
+---
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Firebase Hosting
+- Vite
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/blantyre-dev-summit-2026.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## Purpose
+
+This project was built to demonstrate:
+
+- UI/UX design principles
+- Interactive component architecture
+- Animation timing and microinteractions
+- Portfolio-ready production deployment workflow
+
+---
+
+## Author
+
+Designed and developed by [Sly Munthali]
