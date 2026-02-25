@@ -15,7 +15,7 @@ This is a fictional summit created for portfolio demonstration purposes.
 
 ---
 🌍 Live Demo
-(Deployed link) [(https://blantyre-dev-summit-2026.web.app)]
+(Deployed link) [(https://blantyre-dev-summit-2026.web.app/)]
 ---
 
 ## Features
