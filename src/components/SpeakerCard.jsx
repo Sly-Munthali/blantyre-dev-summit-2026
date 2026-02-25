@@ -102,9 +102,6 @@ export default function SpeakerCard({ name, role, image, delay}) {
                 </p>
               </div>
 
-              <button className="mt-4 text-sm text-blue-400 hover:text-white transition inline-block w-fit self-start">
-                View Profile →
-              </button>
             </div>
 
           </div>
