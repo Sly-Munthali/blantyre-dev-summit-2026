@@ -2,7 +2,7 @@
 
 An immersive hybrid tech summit website built as a UI/UX portfolio project.
 
-Live Demo: https://YOUR_FIREBASE_LINK  
+Live Demo: https://https://blantyre-dev-summit-2026.web.app/  
 Source Code: https://github.com/Sly-Munthali/blantyre-dev-summit-2026
 
 ---
@@ -13,9 +13,6 @@ Blantyre Dev Summit 2026 is a fully interactive concept event website designed t
 
 This is a fictional summit created for portfolio demonstration purposes.
 
----
-🌍 Live Demo
-(Deployed link) [(https://blantyre-dev-summit-2026.web.app/)]
 ---
 
 ## Features
